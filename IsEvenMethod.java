@@ -1,6 +1,6 @@
 public class IsEvenMethod {
    public static void main(String[] args) {
-       System.out.println(isEven(2500));
+       System.out.println(isEven(2));
    }
 
    public static boolean isEven(int num) {
